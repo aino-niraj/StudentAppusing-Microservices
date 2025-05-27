@@ -1,0 +1,3 @@
+annotationClass: org.appops.studentapp.core.StudentService
+modules:
+      -  org.appops.logging.guice.DefaultLoggerModule
