@@ -1,0 +1,4 @@
+org/appops/studentapp/core/StudentService.class
+org/appops/studentapp/slim/Student.class
+org/appops/studentapp/slim/StudentActionModule.class
+org/appops/studentapp/core/Student.class
